@@ -1,0 +1,6 @@
+{
+  "name": "دفتر الملاحظات - Notebook",
+  "description": "تطبيق دفتر ملاحظات أنيق وسريع لإدارة وتدوين الملاحظات والبحث والتعديل مع حفظ محلي دائم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
